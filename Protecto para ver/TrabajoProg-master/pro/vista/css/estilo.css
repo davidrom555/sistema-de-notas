@@ -1,0 +1,23 @@
+body{
+background-color:#6683CC;
+}
+
+
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+table {
+  border-collapse: separate;
+}
+
+table tr {
+  border: 10px solid #0000FF;
+}
+.color{
+
+	color:white;
+}
